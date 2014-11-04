@@ -1,3 +1,6 @@
 parrotGame
 ==========
-#JAG FATTAR INGET
+
+# Concept
+
+This is some text
