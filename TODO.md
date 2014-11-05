@@ -5,25 +5,22 @@ TODO LIST
 
 - Arrow movement 
 - Collision detection
+- Vertical action bar
 - Items
 - Interface
 - Traps
 - Time system
-- Compass
- 
 
 ###Room generation
 
 - Some can be used for safety
 - Some are generally bad
 - Spawn items
-- Rifts
 
 ##Assets:
 
 - Main character
-- Palms
-- Bushes
+- Tiles
+- Decoration
 - Ruined time machine
-- Rift portal
 
