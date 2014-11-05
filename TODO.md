@@ -17,10 +17,17 @@ TODO LIST
 - Some are generally bad
 - Spawn items
 
-##Assets:
+##Assets
+
+###Main Game
 
 - Main character
 - Tiles
 - Decoration
 - Ruined time machine
+
+###Interface
+
+- Vertical action bar
+- Rope
 
